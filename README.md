@@ -1,4 +1,5 @@
-<h2 style="border-bottom: none;">Hi, I'm Katherine! 👋</h2>
+<h2 style="border-bottom: none;">Hi, I'm Diwanshu! 👋</h2>
+<span>A Fullstack Developer</span>
 <!--
 **Diwanshumidha/Diwanshumidha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
