@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h2 style="border-bottom: none;">Hi, I'm Katherine! 👋</h2>
 <!--
 **Diwanshumidha/Diwanshumidha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
