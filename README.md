@@ -1,7 +1,7 @@
 <h2> 𝙷𝚒, 𝙸 𝚊𝚖 𝙳𝚒𝚠𝚊𝚗𝚜𝚑𝚞 <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="130">
 <p><em>Experieced In <a> Frontend Developement </a>   <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Vist Mine  <a href="https://diwanshuportfolio.vercel.app/">Portfolio</a> 
+</br>Vist Mine  <a href="https://diwanshumidha.vercel.app/">Portfolio</a> 
 </em></p>
 
 
