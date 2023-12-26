@@ -85,10 +85,6 @@ Feel free to connect with me! Let's code and learn together. 🚀
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Diwanshumidha&theme=github-compact)](https://github.com/Diwanshumidha/)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diwanshumidha/Diwanshumidha/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diwanshumidha/Diwanshumidha/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Diwanshumidha/Diwanshumidha/output/snake.svg" />
-</picture>
+
 
 ---
